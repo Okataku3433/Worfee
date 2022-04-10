@@ -1,0 +1,47 @@
+.all {
+  background-color: papayawhip;
+}
+
+.container {
+    max-width: 960px;
+  }
+
+.row {
+  justify-content: space-around;
+}
+
+.btn-primary2 {
+  color: #fff;
+}
+
+.btn2 {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: peru;
+  border: 1px solid transparent;
+  margin: 0 10px 0 10px!important;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.all3433 {
+  margin-bottom: 15%;
+}
+
+#btn_all {
+  display: flex;
+}
+
+#btn_all a {
+  color: #fff;
+  text-decoration: none;
+}

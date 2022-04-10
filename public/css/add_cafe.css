@@ -1,0 +1,126 @@
+.bd-example {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    background-color: papayawhip;
+}
+
+.btn2 {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    width: 300px;
+}
+
+.btn-primary2 {
+    color: #fff;
+    background-color: peru;
+    border-color: peru;
+    margin-left: 25%;
+}
+
+.btn-primary3 {
+    color: #fff;
+    background-color: peru;
+    border-color: peru;
+}
+
+.mb-3433 {
+    margin-bottom: 10%;
+}
+
+.mb-34 {
+    margin-bottom: 5%;
+}
+
+.mb-3456 {
+    margin-bottom: 5%;
+}
+
+.accordion_all {
+    background-color: papayawhip;
+    border: 2px solid rosybrown;
+    margin-left: 50px;
+}
+
+.accordion-item34 {
+    background-color: papayawhip;
+    padding-bottom: 15px;
+}
+
+.accordion-item35 {
+    background-color: papayawhip;
+    margin-left: 50px;
+    margin-bottom: 15%;
+}
+
+.accordion-item34 h2{
+    background-color: papayawhip;
+}
+
+.accordion-button2 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: papayawhip;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+}
+
+.area-title {
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.accordion-header2 {
+    padding-bottom: 10px;
+}
+
+.form-left {
+    margin-left: 80px;
+}
+
+.form-control2 {
+    display: block;
+    width: 80%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.border-sub {
+    border-bottom: 2px solid rosybrown;
+}

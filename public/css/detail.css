@@ -1,0 +1,192 @@
+#all {
+    width: 100%;
+    background-color: papayawhip;
+}
+
+.title h2 {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#shop-content h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 48px;
+    margin-left: 20px;
+
+}
+
+.shop-content {
+    padding-top: 15px;
+}
+
+.shop-images {
+    display: flex;
+    width: 100%;
+    padding-left: 7.5%;
+    padding-top: 50px;
+}
+
+.shop-images li {
+    margin-right: 10px;
+}
+
+.shop-images li img {
+    width: 100%;
+    display: block;
+}
+
+#recommend {
+    background: papayawhip;
+    padding: 20px 15px;
+    margin-top: 30px;
+    border: 2px solid rosybrown;
+    width: 90%;
+    margin: 0 auto;
+}
+
+#recommend dt h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#recommend dd p {
+    margin-top: 16px;
+}
+
+.equipment ul {
+    display: flex;
+}
+
+.equipment ul li {
+    display: block;
+    letter-spacing: normal;
+    width: 11.5%;
+    border: 2px solid rosybrown;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    color: #c3c3c3;
+    font-size: 13px;
+    text-align: center;
+    margin: 0 1% 1% 0;
+    padding: 8px 0;
+    box-sizing: border-box;
+}
+
+.basic-info table {
+    border: 2px solid rosybrown;
+    width: 100%;
+}
+
+.basic-info th {
+    background-color: rosybrown;
+    width: 150px;
+}
+
+.basic-info th {
+    font-size: 14px;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding: 10px 15px;
+    word-wrap: break-word;
+}
+
+.content-under {
+    margin-bottom: 30px;
+}
+
+.btn-sp {
+    margin-left: 800px;
+}
+
+#recommend2 {
+    background: papayawhip;
+    padding: 20px 15px;
+    border: 2px solid rosybrown;
+    margin-bottom: 60px;
+}
+
+#recommend2 dt h4{
+    font-weight: bold;
+}
+
+.nav-link34 {
+    display: block;
+    margin: 0 0 0 80%;
+    color: rosybrown;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    text-decoration:underline;
+    text-decoration-color:rosybrown;
+}
+
+.inner34 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.btn3 {
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: peru;
+    color: #fff;
+    border: 1px solid transparent;
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 90px;
+    margin-bottom: 75px;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+
+  .btn3 a {
+    color: #fff;
+    text-decoration:none;
+  }
+
+    .list_color1 {
+        color: white;
+        background-color: black;
+        }
+
+    .list_color2 {
+        color: white;
+        background-color: black;
+        }
+
+    .list_color3 {
+        color: white;
+        background-color: black;
+        }
+
+    .list_color4 {
+        color: white;
+        background-color: black;
+        }
+
+    .list_color5 {
+        color: white;
+        background-color: black;
+        }
+
+    .list_color6 {
+        color: white;
+        background-color: black;
+        }
+
+    .list_color7 {
+        color: white;
+        background-color: black;
+        }
+    
+    
