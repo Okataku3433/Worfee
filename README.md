@@ -19,14 +19,21 @@ http://localhost/main_sub.php
 
 管理者ユーザーと一般ユーザーの権限があります。
 
+
 1.管理者
+
 ユーザー名:山田山男
+
 Eメールアドレス:test@icloud.com
+
 パスワード:Okaoka33
 
 2.一般
+
 ユーザー名:テスト花子
+
 Eメールアドレス:test1@test.com
+
 パスワード:Okadajr3
 
 ## 環境
